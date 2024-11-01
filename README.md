@@ -13,9 +13,10 @@
 
 **Linguagens de Programação**
 
-![Java](https://img.shields.io/badge/Java-FFDDC1?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFE1E0?style=for-the-badge&logo=python&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-E0E4CC?style=for-the-badge&logo=mysql&logoColor=black)
+![C](https://img.shields.io/badge/C-FFE1E0?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FEF3BD?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 **Desenvolvimento Web**
 
