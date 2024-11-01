@@ -1,4 +1,5 @@
-## Olá amigos e outros 👋
+##  🌸 Olá amigos e outros! 👋 Eu sou Gabriela 🌸
+
 
 ## 👨‍💻 Sobre mim
 
