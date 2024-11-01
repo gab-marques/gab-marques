@@ -1,10 +1,6 @@
 ## Olá amigos e outros👋
 
 
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-seu-perfil-blue?style=flat&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-seusite.com-blueviolet?style=flat&logo=internet-explorer&logoColor=white)
-
 ## 👨‍💻 Sobre mim
 
 🎓 **Formação**: Estudante de Informática Biomédica <br>
