@@ -43,7 +43,15 @@
 🔧 **Tecnologias**: Desenvolvido em C aplicando algoritmos em Grafos <br>
 
 ---
+## 🎨 Hobbies
 
+Aqui estão algumas coisas que eu gosto de fazer quando não estou codando!
+
+![Escrita](https://img.shields.io/badge/Leitura-FEF3BD?style=for-the-badge&logo=open-book&logoColor=black) 
+![Esportes](https://img.shields.io/badge/Esportes-BEE3DB?style=for-the-badge&logo=basketball&logoColor=black) 
+![Culinária](https://img.shields.io/badge/Culinária-FDE8DC?style=for-the-badge&logo=utensils&logoColor=black) 
+
+---
 ## 📫 Contato
 
 📧 Email: gabrielaseveriano@ufpr.br <br>
