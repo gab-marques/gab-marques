@@ -45,7 +45,7 @@
 ---
 ## 🎨 Hobbies
 
-Aqui estão algumas coisas que eu gosto de fazer quando não estou codando!
+Aqui estão algumas coisas que eu gosto de fazer no meu tempo livre!
 
 ![Escrita](https://img.shields.io/badge/Leitura-FEF3BD?style=for-the-badge&logo=open-book&logoColor=black) 
 ![Esportes](https://img.shields.io/badge/Esportes-BEE3DB?style=for-the-badge&logo=basketball&logoColor=black) 
