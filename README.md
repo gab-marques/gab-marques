@@ -4,7 +4,7 @@
 ## 👨‍💻 Sobre mim
 
 🎓 **Formação**: Estudante de Informática Biomédica 🧬 <br>
-💼 **Trabalho atual**: Estágio em Customer Success 🏥 <br>
+💼 **Trabalho atual**: Estágio em Analista de Software 🏥 <br>
 🚀 **Interesses**: Desenvolvimento Fullstack, Data Science, Customer Success <br>
 🌱 **Atualmente aprendendo**: Inteligência Artificial, Customer Success e Análise de Dados 📊
 
